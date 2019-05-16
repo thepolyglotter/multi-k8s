@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: client
-        image: kanwarnitin/multi-client
+        image: nkanwar/multi-client
         ports:
         - containerPort: 3000

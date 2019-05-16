@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: worker
-          image: kanwarnitin/multi-worker
+          image: nkanwar/multi-worker
